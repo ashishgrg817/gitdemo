@@ -42,7 +42,7 @@ class MyHomePage extends StatelessWidget {
 //Simple Flushbar with a button
 void show_Simple_Flushbar(BuildContext context) {
   Flushbar(
-    message: 'Hello flutter bar',
+    message: 'Hello flutter bar2',
     duration: Duration(seconds: 3),
   )..show(context);
 }
